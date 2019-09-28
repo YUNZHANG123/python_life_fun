@@ -1,0 +1,5 @@
+1. Download all friend's Profile picture (page 46). U can put some images here
+2. Download all friend's Profiles (page 53). U can the txt
+3. visualizes friend sex ratio (page 55)
+4. visualizes friend geo information (page 56)
+5. practice with python visualization (page 58 )   add comments

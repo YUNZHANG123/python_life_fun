@@ -1,0 +1,9 @@
+1. Add images here
+2. Add readme here
+3. Add other code
+(1) Auto login
+(2) Reply to file system
+(3) Reply to the person who contact you
+£¨4£© Get all friends information
+
+4All in English 
