@@ -1,4 +1,4 @@
-Purpose£ºTo practice beautifulsoup
+Purpose: To practice beautifulsoup
 
 File List:
     bookname_douban.py --> This is the file to demonstrate how to get the
