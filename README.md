@@ -1,11 +1,11 @@
-# python_life_fun
-> My name is Sophia, I am 17 years old on grade 12. I really love computer science and data analysis. So I did some side projects here..
+# python_for_fun
+> My name is Sophia, a student in a Chinese High School. Now I am 17 years old on grade 12. I really love computer science and data analysis, so I did some side projects here..
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+My two major projects contain getting information from two Chinese websites -- a housing website and a social website -- by utilizing crawler and also data visualization by python .
 
 ![](header.png)
 
@@ -19,9 +19,22 @@ edit autoexec.bat
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+ If I want to get the Top Ten Movie names in a social website, I can type codes as following:
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+_from urllib.request  import urlopen
+from bs4 import BeautifulSoup
+url = "https://movie.douban.com/top250?start=0&filter=" #go to the html page
+html = urlopen(url).read()
+soup = BeautifulSoup(html,"lxml")
+grid_view_first= soup.find("ol",attrs={'class':'grid_view'}) #find the div
+lis = grid_view_first.find_all("li")
+for li in lis:
+    span= li.find("span",class_="title")
+    print(span.string) #get the names of movies_
+
+By processing this code, we can successfully get all the top ten movie names for use.
+As for another project, we can visualize certain attributes of friends in social media, such as sex ratio or geographic location. 
+
 
 ## Development setup
 
