@@ -21,7 +21,8 @@ edit autoexec.bat
 
  If I want to get the Top Ten Movie names in a social website, I can type codes as following:
 
-_from urllib.request  import urlopen
+```sh
+from urllib.request  import urlopen
 from bs4 import BeautifulSoup
 url = "https://movie.douban.com/top250?start=0&filter=" #go to the html page
 html = urlopen(url).read()
@@ -30,7 +31,8 @@ grid_view_first= soup.find("ol",attrs={'class':'grid_view'}) #find the div
 lis = grid_view_first.find_all("li")
 for li in lis:
     span= li.find("span",class_="title")
-    print(span.string) #get the names of movies_
+    print(span.string) #get the names of movies
+```
 
 By processing this code, we can successfully get all the top ten movie names for use.
 As for another project, we can visualize certain attributes of friends in social media, such as sex ratio or geographic location. 
