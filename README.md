@@ -9,13 +9,10 @@ My two major projects contain getting information from two Chinese websites -- a
 
 ![](header.png)
 
-## Installation
+## Demo Video
 
-Windows:
+[![Alt text](https://youtu.be/MdwB-z4eIBs0.jpg)](https://youtu.be/MdwB-z4eIBs)
 
-```sh
-edit autoexec.bat
-```
 
 ## Usage example
 
