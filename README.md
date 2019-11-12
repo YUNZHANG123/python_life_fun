@@ -23,16 +23,16 @@ python xx.py
 
 ## Demo Video
 [![python-geo locations visualization
-](https://www.youtube.com/watch?v=fTK3uYI_TXo/0.jpg)](https://www.youtube.com/watch?v=fTK3uYI_TXo)
+](https://img.youtube.com/vi/fTK3uYI_TXo/sddefault.jpg)](https://www.youtube.com/watch?v=fTK3uYI_TXo)
 
 [![python-sex ratio visualization
-](https://www.youtube.com/watch?v=L7p8S6ffhzM/0.jpg)](https://www.youtube.com/watch?v=L7p8S6ffhzM)
+](https://img.youtube.com/vi/L7p8S6ffhzM/sddefault.jpg)](https://www.youtube.com/watch?v=L7p8S6ffhzM)
 
 [![python-weChat auto reply
-](https://www.youtube.com/watch?v=KqwYfzCA1rs/0.jpg)](https://www.youtube.com/watch?v=KqwYfzCA1rs)
+](https://img.youtube.com/vi/KqwYfzCA1rs/sddefault.jpg)](https://www.youtube.com/watch?v=KqwYfzCA1rs)
 
 [![python-lianjia city crawler
-](https://www.youtube.com/watch?v=qU3I0_uwuUI/0.jpg)](https://www.youtube.com/watch?v=qU3I0_uwuUI)
+](https://img.youtube.com/vi/qU3I0_uwuUI/sddefault.jpg)](https://www.youtube.com/watch?v=qU3I0_uwuUI)
 
 ## Usage example
 
