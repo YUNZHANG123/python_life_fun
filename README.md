@@ -55,7 +55,7 @@ As for another project, we can visualize certain attributes of friends in social
 
 
 ## Paper
-![Paper](paper.jpg?raw=true " Crawler and data visualization by python ")
+![Crawler and data visualization by python](https://github.com/YUNZHANG123/python_life_fun/blob/master/paper.png)
 
 
 ## Meta
