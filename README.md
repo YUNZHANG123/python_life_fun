@@ -1,9 +1,7 @@
 # python_for_fun
 > My name is Sophia, a student in a Chinese High School. Now I am 17 years old on grade 12. I really love computer science and data analysis, so I did some side projects here..
 
-[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 My two major projects contain getting information from two Chinese websites -- a housing website and a social website -- by utilizing crawler and also data visualization by python .
 
@@ -11,11 +9,30 @@ My two major projects contain getting information from two Chinese websites -- a
 
 ## Installation
 
-Windows:
+Please install Python 3 before run the script
 
 ```sh
-edit autoexec.bat
+python xx.py
 ```
+
+
+
+## Abstract
+ World Wide Web has incorporated to people’s daily lives and people are able to acquire the information they need online by simply typing few key words in the search box. However, for those users who require to access an general area with a specific criteria, such work is impossible because data is not in a managed and structured architecture across the web. Therefore, in terms of dealing with tremendous database, there are several tools we can employ for data mining, including crawler which is a preferable and effortless way to salvage data from webs. Additionally, for those people who deal with data everyday, data visualization can benefit them a lot. This paper presents two systematic project: one for the crawler in website www.lianjia.com, a Chinese housing website like Redfin. The other one is the visualization of the friends information in WeChat which is the Chinese social network like Facebook.
+
+
+## Demo Video
+[![python-geo locations visualization
+](https://www.youtube.com/watch?v=fTK3uYI_TXo/0.jpg)](https://www.youtube.com/watch?v=fTK3uYI_TXo)
+
+[![python-sex ratio visualization
+](https://www.youtube.com/watch?v=L7p8S6ffhzM/0.jpg)](https://www.youtube.com/watch?v=L7p8S6ffhzM)
+
+[![python-weChat auto reply
+](https://www.youtube.com/watch?v=KqwYfzCA1rs/0.jpg)](https://www.youtube.com/watch?v=KqwYfzCA1rs)
+
+[![python-lianjia city crawler
+](https://www.youtube.com/watch?v=qU3I0_uwuUI/0.jpg)](https://www.youtube.com/watch?v=qU3I0_uwuUI)
 
 ## Usage example
 
@@ -35,55 +52,10 @@ for li in lis:
 ```
 
 By processing this code, we can successfully get all the top ten movie names for use.
-As for another project, we can visualize certain attributes of friends in social media, such as sex ratio or geographic location. 
+As for another project, we can visualize certain attributes of friends in social media, such as sex ratio or geographic location.
 
 
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
 
 ## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
-
-
+Sophia -- 243681509@qq.com@example.com
+[https://github.com/YUNZHANG123/python_life_fun]
