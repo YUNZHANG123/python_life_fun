@@ -1,7 +1,6 @@
 # python_for_fun
 > My name is Sophia, a student in a Chinese High School. Now I am 17 years old on grade 12. I really love computer science and data analysis, so I did some side projects here..
 
-[![Build Status][travis-image]][travis-url]
 
 My two major projects contain getting information from two Chinese websites -- a housing website and a social website -- by utilizing crawler and also data visualization by python .
 
