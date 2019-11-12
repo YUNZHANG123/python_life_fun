@@ -16,7 +16,6 @@ python xx.py
 ```
 
 
-
 ## Abstract
  World Wide Web has incorporated to people’s daily lives and people are able to acquire the information they need online by simply typing few key words in the search box. However, for those users who require to access an general area with a specific criteria, such work is impossible because data is not in a managed and structured architecture across the web. Therefore, in terms of dealing with tremendous database, there are several tools we can employ for data mining, including crawler which is a preferable and effortless way to salvage data from webs. Additionally, for those people who deal with data everyday, data visualization can benefit them a lot. This paper presents two systematic project: one for the crawler in website www.lianjia.com, a Chinese housing website like Redfin. The other one is the visualization of the friends information in WeChat which is the Chinese social network like Facebook.
 
@@ -55,7 +54,10 @@ By processing this code, we can successfully get all the top ten movie names for
 As for another project, we can visualize certain attributes of friends in social media, such as sex ratio or geographic location.
 
 
+## Paper
+![Paper](paper.jpg?raw=true " Crawler and data visualization by python ")
+
 
 ## Meta
-Sophia -- 243681509@qq.com@example.com
+Sophia -- 243681509@qq.com
 [https://github.com/YUNZHANG123/python_life_fun]
